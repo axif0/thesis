@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-10T09:40:56.888Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="5lZ4KwcL_doHTmflU6Lv" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-10T09:44:11.260Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="SdntVKjNnb9WHAaEbX72" version="22.1.0" type="github">
   <diagram name="Page-1" id="giDHEeXzCqw7Mk6FE-td">
     <mxGraphModel dx="3574" dy="2464" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -34,7 +34,7 @@
           <mxGeometry x="755" y="290" width="370" height="99" as="geometry" />
         </mxCell>
         <mxCell id="RioY9GQPINJHXDq_88uB-7" value="&lt;b&gt;Anxiety for Wealth Differences&amp;nbsp;&lt;br&gt;&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Stress or anxiety arising from disparities in wealth.&amp;nbsp;&lt;/li&gt;&lt;li&gt;How the perception of wealth differences affects the student&#39;s mindset and well-being.&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="770" y="444" width="355" height="99" as="geometry" />
+          <mxGeometry x="765" y="439" width="355" height="99" as="geometry" />
         </mxCell>
         <mxCell id="B3kyMHNOTuuTRi2bmLed-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RioY9GQPINJHXDq_88uB-8" target="RioY9GQPINJHXDq_88uB-1">
           <mxGeometry relative="1" as="geometry" />
