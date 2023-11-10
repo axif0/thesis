@@ -1,52 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2023-11-09T15:04:35.514Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="frZ772k_KbzWq_F10S57" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-10T09:21:31.513Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="iaO6eUU9JgqTGEblHg5A" version="22.1.0" type="github">
   <diagram name="Page-1" id="giDHEeXzCqw7Mk6FE-td">
-    <mxGraphModel dx="1434" dy="750" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2643" dy="938" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="RioY9GQPINJHXDq_88uB-1" value="&lt;b&gt;Student Economic Stress&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RioY9GQPINJHXDq_88uB-1" value="&lt;b&gt;Student Economic Stress&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="235" width="130" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="RioY9GQPINJHXDq_88uB-2" value="&lt;b&gt;Others Issues&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RioY9GQPINJHXDq_88uB-2" value="&lt;b&gt;Others Issues&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="60" width="170" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="RioY9GQPINJHXDq_88uB-3" value="&lt;b&gt;Huge Spending Habit&lt;br&gt;&lt;/b&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="340" y="50" width="270" height="80" as="geometry" />
+        <mxCell id="RioY9GQPINJHXDq_88uB-3" value="&lt;b&gt;Huge Spending Habit&lt;br&gt;&lt;ul&gt;&lt;li&gt;Excessive and uncontrolled spending behavior.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Potential strain on financial resources due to extravagant lifestyle.&lt;/li&gt;&lt;/ul&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="317" y="14" width="293" height="116" as="geometry" />
         </mxCell>
-        <mxCell id="RioY9GQPINJHXDq_88uB-4" value="&lt;b&gt;Scholarship Miss&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="140" width="120" height="60" as="geometry" />
+        <mxCell id="RioY9GQPINJHXDq_88uB-4" value="&lt;b&gt;Scholarship Miss&lt;/b&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Impact on financial stability and academic progress.&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="677" y="141" width="255" height="86" as="geometry" />
         </mxCell>
-        <mxCell id="RioY9GQPINJHXDq_88uB-5" value="&lt;b&gt;Living Cost&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="260" width="180" height="70" as="geometry" />
+        <mxCell id="RioY9GQPINJHXDq_88uB-5" value="&lt;b&gt;Living Cost&lt;/b&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;Challenges related to the expenses of accommodation, utilities, and daily living.&lt;/li&gt;&lt;li&gt;&amp;nbsp;Balancing living costs with available financial resources.&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="-142" y="231" width="377" height="92" as="geometry" />
         </mxCell>
-        <mxCell id="RioY9GQPINJHXDq_88uB-6" value="&lt;b&gt;Family Condition&amp;nbsp;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="290" width="150" height="90" as="geometry" />
+        <mxCell id="RioY9GQPINJHXDq_88uB-6" value="&lt;b style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Family Condition&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; font-family: Arial, sans-serif;&quot;&gt;Family support past;&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Family support now;&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/b&gt;&lt;p style=&quot;line-height: 1.8; margin-left: 144pt; margin-top: 0pt; margin-bottom: 0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 1.8; margin-left: 144pt; margin-top: 0pt; margin-bottom: 0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;/p&gt;&lt;div style=&quot;&quot;&gt;&lt;/div&gt;&lt;p style=&quot;&quot;&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;span id=&quot;docs-internal-guid-e3f19381-7fff-3e35-3ddc-5be22db2a7ea&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="715" y="314" width="219" height="99" as="geometry" />
         </mxCell>
-        <mxCell id="RioY9GQPINJHXDq_88uB-7" value="&lt;b&gt;Navigating Wealth Differences In University&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="480" width="260" height="60" as="geometry" />
+        <mxCell id="RioY9GQPINJHXDq_88uB-7" value="&lt;b&gt;Anxiety for Wealth Differences&amp;nbsp;&lt;br&gt;&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Stress or anxiety arising from disparities in wealth.&amp;nbsp;&lt;/li&gt;&lt;li&gt;How the perception of wealth differences affects the student&#39;s mindset and well-being.&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="337" y="481" width="355" height="99" as="geometry" />
         </mxCell>
-        <mxCell id="RioY9GQPINJHXDq_88uB-8" value="&lt;b&gt;Study Cost Equipment&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="420" width="150" height="70" as="geometry" />
+        <mxCell id="RioY9GQPINJHXDq_88uB-8" value="&lt;b&gt;Study Cost Equipment&lt;/b&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;Expenses incurred for study-related equipment such as textbooks and software.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Managing the financial aspect of academic materials.&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="-124" y="383" width="344" height="107" as="geometry" />
         </mxCell>
-        <mxCell id="RioY9GQPINJHXDq_88uB-9" value="&lt;b&gt;Student Can Cope Up&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="RioY9GQPINJHXDq_88uB-9" value="&lt;b&gt;Student Cope Up&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="340" y="840" width="130" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="RioY9GQPINJHXDq_88uB-10" value="&lt;b&gt;Self Earning&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RioY9GQPINJHXDq_88uB-10" value="&lt;b&gt;Self Earning&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="720" width="170" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="RioY9GQPINJHXDq_88uB-11" value="&lt;b&gt;Social Support&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RioY9GQPINJHXDq_88uB-11" value="&lt;b&gt;Social Support&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="740" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RioY9GQPINJHXDq_88uB-12" value="&lt;b&gt;Bank Loan&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RioY9GQPINJHXDq_88uB-12" value="&lt;b&gt;Bank Loan&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="910" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RioY9GQPINJHXDq_88uB-16" value="&lt;b style=&quot;font-size: 11px;&quot;&gt;Scholarship&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Merit scholarship impact&lt;br&gt;&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="RioY9GQPINJHXDq_88uB-16" value="&lt;b style=&quot;font-size: 11px;&quot;&gt;Scholarship&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Merit scholarship impact&lt;br&gt;&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="276" y="1010" width="231" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="RioY9GQPINJHXDq_88uB-17" value="&lt;b&gt;Skill Develop&amp;nbsp;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RioY9GQPINJHXDq_88uB-17" value="&lt;b&gt;Skill Develop&amp;nbsp;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="620" y="760" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="RioY9GQPINJHXDq_88uB-18" value="&lt;b&gt;Family support&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RioY9GQPINJHXDq_88uB-18" value="&lt;b&gt;Family support&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="610" y="990" width="150" height="70" as="geometry" />
         </mxCell>
       </root>
