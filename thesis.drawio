@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-11-10T10:35:24.630Z" agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36" etag="DMevFogrBlbcMF3pTRUu" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-11T09:31:25.626Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="0dvU8dy_qsaVXUr3uh9y" version="22.1.0" type="github">
   <diagram name="Page-1" id="giDHEeXzCqw7Mk6FE-td">
-    <mxGraphModel dx="1336" dy="2349" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2643" dy="2038" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="dNjB-bx8Fn72y2OTrxXD-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RioY9GQPINJHXDq_88uB-1" target="B3kyMHNOTuuTRi2bmLed-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RioY9GQPINJHXDq_88uB-1" value="&lt;b&gt;How&lt;br&gt;Student Economic Stress&lt;br&gt;occored&lt;br&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="378" y="385" width="130" height="120" as="geometry" />
         </mxCell>
@@ -25,7 +28,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RioY9GQPINJHXDq_88uB-5" value="&lt;b&gt;Living Cost&lt;/b&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;Challenges related to the expenses of accommodation, utilities, and daily living.&lt;/li&gt;&lt;li&gt;&amp;nbsp;Balancing living costs with available financial resources.&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="-311" y="242" width="377" height="92" as="geometry" />
+          <mxGeometry x="-344" y="258" width="377" height="92" as="geometry" />
         </mxCell>
         <mxCell id="B3kyMHNOTuuTRi2bmLed-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RioY9GQPINJHXDq_88uB-6" target="RioY9GQPINJHXDq_88uB-1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -39,7 +42,7 @@
           <mxGeometry x="755" y="290" width="370" height="99" as="geometry" />
         </mxCell>
         <mxCell id="RioY9GQPINJHXDq_88uB-7" value="&lt;b&gt;Anxiety for Wealth Differences&amp;nbsp;&lt;br&gt;&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Stress or anxiety arising from disparities in wealth.&amp;nbsp;&lt;/li&gt;&lt;li&gt;How the perception of wealth differences affects the student&#39;s mindset and well-being.&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="762.5" y="436" width="355" height="99" as="geometry" />
+          <mxGeometry x="762.5" y="436" width="421.5" height="118" as="geometry" />
         </mxCell>
         <mxCell id="B3kyMHNOTuuTRi2bmLed-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="RioY9GQPINJHXDq_88uB-8" target="RioY9GQPINJHXDq_88uB-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -79,11 +82,11 @@
         <mxCell id="B3kyMHNOTuuTRi2bmLed-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.958;entryY=0.21;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="RioY9GQPINJHXDq_88uB-4" target="RioY9GQPINJHXDq_88uB-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6qkeYt31etBt61vRfqYl-1" value="CGPA" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1110" y="668" width="120" height="60" as="geometry" />
+        <mxCell id="6qkeYt31etBt61vRfqYl-1" value="CGPA" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="1191" y="672" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6qkeYt31etBt61vRfqYl-2" value="Stress about studying unwanted degree &amp;amp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="1237" y="155" width="130" height="49" as="geometry" />
+        <mxCell id="6qkeYt31etBt61vRfqYl-2" value="Stress about studying unwanted degree !?!" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;direction=south;" parent="1" vertex="1">
+          <mxGeometry x="1686" y="516" width="241" height="126" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
