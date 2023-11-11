@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-11T09:55:30.878Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="uKLIfAaygd4c1n6uJBOH" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-11T13:48:47.721Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="OVulsSfR0K01yUgyHGpL" version="22.1.0" type="github">
   <diagram name="Page-1" id="giDHEeXzCqw7Mk6FE-td">
-    <mxGraphModel dx="2163" dy="1810" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3209" dy="1925" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -50,9 +50,6 @@
         <mxCell id="RioY9GQPINJHXDq_88uB-6" value="&lt;b style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Family Condition&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; font-family: Arial, sans-serif;&quot;&gt;Family support past;&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Family support now;&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/b&gt;&lt;p style=&quot;line-height: 1.8; margin-left: 144pt; margin-top: 0pt; margin-bottom: 0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 1.8; margin-left: 144pt; margin-top: 0pt; margin-bottom: 0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;/p&gt;&lt;div style=&quot;&quot;&gt;&lt;/div&gt;&lt;p style=&quot;&quot;&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;span id=&quot;docs-internal-guid-e3f19381-7fff-3e35-3ddc-5be22db2a7ea&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="755" y="290" width="434" height="99" as="geometry" />
         </mxCell>
-        <mxCell id="RioY9GQPINJHXDq_88uB-7" value="&lt;b&gt;Anxiety for Wealth Differences&amp;nbsp;&lt;br&gt;&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Stress or anxiety arising from disparities in wealth.&amp;nbsp;&lt;/li&gt;&lt;li&gt;How the perception of wealth differences affects the student&#39;s mindset and well-being.&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="759" y="429" width="421.5" height="118" as="geometry" />
-        </mxCell>
         <mxCell id="B3kyMHNOTuuTRi2bmLed-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="RioY9GQPINJHXDq_88uB-8" target="RioY9GQPINJHXDq_88uB-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -83,11 +80,6 @@
         <mxCell id="B3kyMHNOTuuTRi2bmLed-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.724;entryY=0.023;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="RioY9GQPINJHXDq_88uB-3" target="RioY9GQPINJHXDq_88uB-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="B3kyMHNOTuuTRi2bmLed-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="1" source="RioY9GQPINJHXDq_88uB-7" target="RioY9GQPINJHXDq_88uB-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="493" y="493" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="B3kyMHNOTuuTRi2bmLed-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.958;entryY=0.21;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="RioY9GQPINJHXDq_88uB-4" target="RioY9GQPINJHXDq_88uB-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -114,6 +106,15 @@
         </mxCell>
         <mxCell id="dNjB-bx8Fn72y2OTrxXD-2" value="&lt;b&gt;Pocket money&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="740" y="-12" width="282" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="dNjB-bx8Fn72y2OTrxXD-5" value="Mental Situations" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-527" y="633" width="122" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="dNjB-bx8Fn72y2OTrxXD-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-892" y="652" width="156" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="dNjB-bx8Fn72y2OTrxXD-7" value="&lt;b&gt;Anxiety for Wealth Differences&amp;nbsp;&lt;br&gt;&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Stress or anxiety arising from disparities in wealth.&amp;nbsp;&lt;/li&gt;&lt;li&gt;How the perception of wealth differences affects the student&#39;s mindset and well-being.&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-1052" y="432" width="421.5" height="118" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
