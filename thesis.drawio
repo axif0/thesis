@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2023-11-11T09:48:49.646Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="p5o6JBOq5hGe1A6nk99P" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-11T09:55:30.878Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="uKLIfAaygd4c1n6uJBOH" version="22.1.0" type="github">
   <diagram name="Page-1" id="giDHEeXzCqw7Mk6FE-td">
-    <mxGraphModel dx="2443" dy="1971" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2163" dy="1810" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dNjB-bx8Fn72y2OTrxXD-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RioY9GQPINJHXDq_88uB-1" target="B3kyMHNOTuuTRi2bmLed-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RioY9GQPINJHXDq_88uB-1" value="&lt;b&gt;How&lt;br&gt;Student Economic Stress&lt;br&gt;occored&lt;br&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="RioY9GQPINJHXDq_88uB-1" value="&lt;b&gt;&lt;br&gt;Student Economic Lacking&lt;br&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="378" y="385" width="130" height="120" as="geometry" />
         </mxCell>
         <mxCell id="B3kyMHNOTuuTRi2bmLed-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="RioY9GQPINJHXDq_88uB-2" target="RioY9GQPINJHXDq_88uB-1" edge="1">
@@ -97,7 +97,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6qkeYt31etBt61vRfqYl-1" value="CGPA" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="1191" y="672" width="120" height="60" as="geometry" />
+          <mxGeometry x="1191" y="672" width="149" height="72" as="geometry" />
         </mxCell>
         <mxCell id="6qkeYt31etBt61vRfqYl-2" value="Stress about studying unwanted degree !?!" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;direction=south;" parent="1" vertex="1">
           <mxGeometry x="1686" y="516" width="241" height="126" as="geometry" />
