@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-11T13:48:47.721Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="OVulsSfR0K01yUgyHGpL" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-11T14:05:41.531Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="hMluyREhQF5Opsvy_Ki3" version="22.1.0" type="github">
   <diagram name="Page-1" id="giDHEeXzCqw7Mk6FE-td">
-    <mxGraphModel dx="3209" dy="1925" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2995" dy="2500" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -59,8 +59,17 @@
         <mxCell id="RioY9GQPINJHXDq_88uB-9" value="&lt;b&gt;How&lt;br&gt;Students Can Cope&lt;br&gt;&amp;nbsp;Up&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="417" y="970" width="130" height="130" as="geometry" />
         </mxCell>
+        <mxCell id="dNjB-bx8Fn72y2OTrxXD-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.6;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RioY9GQPINJHXDq_88uB-10" target="RioY9GQPINJHXDq_88uB-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="495" y="959" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="597" y="899" />
+              <mxPoint x="597" y="970" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="RioY9GQPINJHXDq_88uB-10" value="&lt;b&gt;Self Earning&lt;/b&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;Personal income generation, potentially through part-time jobs.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Balance between work commitments and academic responsibilities.&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="696" y="842" width="344" height="114" as="geometry" />
+          <mxGeometry x="763" y="887" width="344" height="114" as="geometry" />
         </mxCell>
         <mxCell id="RioY9GQPINJHXDq_88uB-11" value="&lt;b&gt;Social Support&lt;/b&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Do you take any social financial support?&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="-136" y="869" width="343" height="117" as="geometry" />
@@ -68,14 +77,20 @@
         <mxCell id="RioY9GQPINJHXDq_88uB-12" value="&lt;b&gt;Bank Loan&lt;/b&gt;&lt;br&gt;&lt;ul style=&quot;&quot;&gt;&lt;li style=&quot;&quot;&gt;&lt;b&gt;Utilization of loans for financial support.&lt;/b&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;b&gt;&amp;nbsp;Implications and considerations related to bank loans.&lt;/b&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="-133" y="1078" width="390" height="103" as="geometry" />
         </mxCell>
+        <mxCell id="dNjB-bx8Fn72y2OTrxXD-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="RioY9GQPINJHXDq_88uB-16" target="RioY9GQPINJHXDq_88uB-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RioY9GQPINJHXDq_88uB-16" value="&lt;b style=&quot;font-size: 11px;&quot;&gt;Scholarship&lt;/b&gt;&lt;br&gt;&lt;ul style=&quot;&quot;&gt;&lt;li style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 11px;&quot;&gt;Are you study &lt;/b&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;enthusiast&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp;&amp;nbsp;enough to&amp;nbsp; get a scholarship ?&lt;/b&gt;&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 11px; font-weight: bold;&quot;&gt;&lt;b&gt;If apply for financial help, how much % give you uni?&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="283.5" y="1249" width="410.5" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="dNjB-bx8Fn72y2OTrxXD-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RioY9GQPINJHXDq_88uB-17" target="RioY9GQPINJHXDq_88uB-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RioY9GQPINJHXDq_88uB-17" value="&lt;b&gt;Skill Develop&amp;nbsp;&lt;/b&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Focus on personal and academic skill enhancement.&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;&amp;nbsp;Importance of skill development for future prospects.&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="686" y="1051" width="367" height="97" as="geometry" />
         </mxCell>
         <mxCell id="B3kyMHNOTuuTRi2bmLed-1" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="378" y="612" width="131" height="116" as="geometry" />
+          <mxGeometry x="377.5" y="645" width="131" height="116" as="geometry" />
         </mxCell>
         <mxCell id="B3kyMHNOTuuTRi2bmLed-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.724;entryY=0.023;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="RioY9GQPINJHXDq_88uB-3" target="RioY9GQPINJHXDq_88uB-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -107,14 +122,45 @@
         <mxCell id="dNjB-bx8Fn72y2OTrxXD-2" value="&lt;b&gt;Pocket money&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="740" y="-12" width="282" height="104" as="geometry" />
         </mxCell>
+        <mxCell id="dNjB-bx8Fn72y2OTrxXD-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dNjB-bx8Fn72y2OTrxXD-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="369.36363636363603" y="703" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="dNjB-bx8Fn72y2OTrxXD-5" value="Mental Situations" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-527" y="633" width="122" height="122" as="geometry" />
+          <mxGeometry x="-586" y="642" width="122" height="122" as="geometry" />
         </mxCell>
-        <mxCell id="dNjB-bx8Fn72y2OTrxXD-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-892" y="652" width="156" height="76" as="geometry" />
+        <mxCell id="dNjB-bx8Fn72y2OTrxXD-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dNjB-bx8Fn72y2OTrxXD-6" target="dNjB-bx8Fn72y2OTrxXD-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dNjB-bx8Fn72y2OTrxXD-7" value="&lt;b&gt;Anxiety for Wealth Differences&amp;nbsp;&lt;br&gt;&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Stress or anxiety arising from disparities in wealth.&amp;nbsp;&lt;/li&gt;&lt;li&gt;How the perception of wealth differences affects the student&#39;s mindset and well-being.&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-1052" y="432" width="421.5" height="118" as="geometry" />
+        <mxCell id="dNjB-bx8Fn72y2OTrxXD-6" value="&lt;b&gt;When it’s hard to pay for things, how does it affect the way you fit in with the university community as a whole?&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1052" y="575" width="280" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="dNjB-bx8Fn72y2OTrxXD-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dNjB-bx8Fn72y2OTrxXD-7" target="dNjB-bx8Fn72y2OTrxXD-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dNjB-bx8Fn72y2OTrxXD-7" value="&lt;b&gt;When it’s hard to pay for things you need or want, how does that affect you academically?&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-1052" y="432" width="276" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="dNjB-bx8Fn72y2OTrxXD-8" value="&lt;b&gt;When you’ve had to worry about money, how does this affect your well-being?&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1053.5" y="708" width="279.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dNjB-bx8Fn72y2OTrxXD-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="dNjB-bx8Fn72y2OTrxXD-9" target="dNjB-bx8Fn72y2OTrxXD-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-527.0000000000005" y="780.454545454545" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dNjB-bx8Fn72y2OTrxXD-9" value="&lt;b&gt;What does it feel like when it’s hard to pay for things you need or want?&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1053.5" y="848" width="285.5" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="dNjB-bx8Fn72y2OTrxXD-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.051;entryY=0.688;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dNjB-bx8Fn72y2OTrxXD-8" target="dNjB-bx8Fn72y2OTrxXD-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dNjB-bx8Fn72y2OTrxXD-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.025;entryY=0.374;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RioY9GQPINJHXDq_88uB-11" target="RioY9GQPINJHXDq_88uB-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dNjB-bx8Fn72y2OTrxXD-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.011;entryY=0.78;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RioY9GQPINJHXDq_88uB-12" target="RioY9GQPINJHXDq_88uB-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
