@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-04T20:01:15.697Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="24BmIi-zEVNBMB1SWdRy" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-04T20:51:30.383Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="gWLo8bdl6eKF-aYvtTGJ" version="22.1.5" type="github">
   <diagram name="Page-1" id="giDHEeXzCqw7Mk6FE-td">
-    <mxGraphModel dx="4744" dy="2464" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5420" dy="2767" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -111,9 +111,6 @@
         </mxCell>
         <mxCell id="6qkeYt31etBt61vRfqYl-1" value="CGPA" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="1191" y="672" width="149" height="72" as="geometry" />
-        </mxCell>
-        <mxCell id="6qkeYt31etBt61vRfqYl-2" value="Stress about studying unwanted degree !?!" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="1686" y="516" width="241" height="126" as="geometry" />
         </mxCell>
         <mxCell id="dNjB-bx8Fn72y2OTrxXD-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="dNjB-bx8Fn72y2OTrxXD-5" edge="1">
           <mxGeometry relative="1" as="geometry">
