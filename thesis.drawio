@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-04T20:51:30.383Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="gWLo8bdl6eKF-aYvtTGJ" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-05T14:16:57.297Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="LdtEAwfsMjgNrymP0pbN" version="22.1.5" type="github">
   <diagram name="Page-1" id="giDHEeXzCqw7Mk6FE-td">
-    <mxGraphModel dx="5420" dy="2767" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5474" dy="2806" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -152,11 +152,185 @@
         <mxCell id="dNjB-bx8Fn72y2OTrxXD-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.011;entryY=0.78;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="RioY9GQPINJHXDq_88uB-12" target="RioY9GQPINJHXDq_88uB-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SSQnsUbayR-saj6jICKZ-1" value="Social&amp;nbsp;anxiety" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SSQnsUbayR-saj6jICKZ-1" value="Social&amp;nbsp;anxiety" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1053.5" y="975" width="292.5" height="111" as="geometry" />
         </mxCell>
-        <mxCell id="SSQnsUbayR-saj6jICKZ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.687;entryY=1.054;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SSQnsUbayR-saj6jICKZ-1" target="dNjB-bx8Fn72y2OTrxXD-5">
+        <mxCell id="SSQnsUbayR-saj6jICKZ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.687;entryY=1.054;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="SSQnsUbayR-saj6jICKZ-1" target="dNjB-bx8Fn72y2OTrxXD-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZdzGuVzVUep0yFsbwotI-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZdzGuVzVUep0yFsbwotI-2" target="ZdzGuVzVUep0yFsbwotI-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZdzGuVzVUep0yFsbwotI-2" value="Student&#39;s Financial Struggling" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="378" y="385" width="130" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZdzGuVzVUep0yFsbwotI-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZdzGuVzVUep0yFsbwotI-4" target="ZdzGuVzVUep0yFsbwotI-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="106" y="136" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="106" y="130" />
+              <mxPoint x="106" y="222" />
+              <mxPoint x="443" y="222" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZdzGuVzVUep0yFsbwotI-4" value="&lt;b&gt;Others Issues&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-55" y="60" width="275" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZdzGuVzVUep0yFsbwotI-5" value="&lt;b&gt;Huge Spending Habit&lt;br&gt;&lt;ul&gt;&lt;li&gt;Excessive and uncontrolled spending behavior.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Potential strain on financial resources due to extravagant lifestyle.&lt;/li&gt;&lt;/ul&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="325.5" y="-40" width="293" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="ZdzGuVzVUep0yFsbwotI-6" value="&lt;b&gt;Scholarship Miss&lt;/b&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Impact on financial stability and academic progress.&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="729" y="150" width="317" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="ZdzGuVzVUep0yFsbwotI-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="556" y="338" />
+              <mxPoint x="556" y="444" />
+            </Array>
+            <mxPoint x="756" y="337.9984615384614" as="sourcePoint" />
+            <mxPoint x="508.99994658117384" y="443.53692307692285" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZdzGuVzVUep0yFsbwotI-8" value="&lt;b style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Family Condition&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; font-family: Arial, sans-serif;&quot;&gt;Family support past;&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Family support now;&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/b&gt;&lt;p style=&quot;line-height: 1.8; margin-left: 144pt; margin-top: 0pt; margin-bottom: 0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 1.8; margin-left: 144pt; margin-top: 0pt; margin-bottom: 0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;/p&gt;&lt;div style=&quot;&quot;&gt;&lt;/div&gt;&lt;p style=&quot;&quot;&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;span id=&quot;docs-internal-guid-e3f19381-7fff-3e35-3ddc-5be22db2a7ea&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="755" y="290" width="434" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="ZdzGuVzVUep0yFsbwotI-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZdzGuVzVUep0yFsbwotI-10" target="ZdzGuVzVUep0yFsbwotI-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZdzGuVzVUep0yFsbwotI-10" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;Academic expenses&lt;/blockquote&gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-345" y="391.5" width="378" height="107" as="geometry" />
+        </mxCell>
+        <mxCell id="ZdzGuVzVUep0yFsbwotI-11" value="Dealing With Financial Struggling" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="417" y="970" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ZdzGuVzVUep0yFsbwotI-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.6;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZdzGuVzVUep0yFsbwotI-13" target="ZdzGuVzVUep0yFsbwotI-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="495" y="959" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="597" y="899" />
+              <mxPoint x="597" y="970" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZdzGuVzVUep0yFsbwotI-13" value="&lt;b&gt;Self Earning&lt;/b&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;Personal income generation, potentially through part-time jobs.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Balance between work commitments and academic responsibilities.&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="763" y="887" width="344" height="114" as="geometry" />
+        </mxCell>
+        <mxCell id="ZdzGuVzVUep0yFsbwotI-14" value="&lt;b&gt;Social Support&lt;/b&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Do you take any social financial support?&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-136" y="869" width="343" height="117" as="geometry" />
+        </mxCell>
+        <mxCell id="ZdzGuVzVUep0yFsbwotI-15" value="&lt;b&gt;Bank Loan&lt;/b&gt;&lt;br&gt;&lt;ul style=&quot;&quot;&gt;&lt;li style=&quot;&quot;&gt;&lt;b&gt;Utilization of loans for financial support.&lt;/b&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;b&gt;&amp;nbsp;Implications and considerations related to bank loans.&lt;/b&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-133" y="1078" width="390" height="103" as="geometry" />
+        </mxCell>
+        <mxCell id="ZdzGuVzVUep0yFsbwotI-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZdzGuVzVUep0yFsbwotI-17" target="ZdzGuVzVUep0yFsbwotI-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZdzGuVzVUep0yFsbwotI-17" value="&lt;b style=&quot;font-size: 11px;&quot;&gt;Scholarship&lt;/b&gt;&lt;br&gt;&lt;ul style=&quot;&quot;&gt;&lt;li style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 11px;&quot;&gt;Are you study &lt;/b&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;enthusiast&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp;&amp;nbsp;enough to&amp;nbsp; get a scholarship ?&lt;/b&gt;&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 11px; font-weight: bold;&quot;&gt;&lt;b&gt;If apply for financial help, how much % give you uni?&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="283.5" y="1249" width="410.5" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="ZdzGuVzVUep0yFsbwotI-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZdzGuVzVUep0yFsbwotI-19" target="ZdzGuVzVUep0yFsbwotI-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZdzGuVzVUep0yFsbwotI-19" value="&lt;b&gt;Skill Develop&amp;nbsp;&lt;/b&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Focus on personal and academic skill enhancement.&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;&amp;nbsp;Importance of skill development for future prospects.&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="686" y="1051" width="367" height="97" as="geometry" />
+        </mxCell>
+        <mxCell id="ZdzGuVzVUep0yFsbwotI-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.664;exitY=0.048;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ZdzGuVzVUep0yFsbwotI-11" target="ZdzGuVzVUep0yFsbwotI-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="503" y="901" />
+              <mxPoint x="579" y="901" />
+              <mxPoint x="579" y="708" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZdzGuVzVUep0yFsbwotI-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZdzGuVzVUep0yFsbwotI-23" target="ZdzGuVzVUep0yFsbwotI-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZdzGuVzVUep0yFsbwotI-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZdzGuVzVUep0yFsbwotI-23" target="ZdzGuVzVUep0yFsbwotI-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZdzGuVzVUep0yFsbwotI-23" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="377.5" y="645" width="131" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="ZdzGuVzVUep0yFsbwotI-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.724;entryY=0.023;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZdzGuVzVUep0yFsbwotI-5" target="ZdzGuVzVUep0yFsbwotI-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZdzGuVzVUep0yFsbwotI-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.958;entryY=0.21;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZdzGuVzVUep0yFsbwotI-6" target="ZdzGuVzVUep0yFsbwotI-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="529" y="190" />
+              <mxPoint x="529" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZdzGuVzVUep0yFsbwotI-26" value="CGPA" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1191" y="672" width="149" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="ZdzGuVzVUep0yFsbwotI-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZdzGuVzVUep0yFsbwotI-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="369.36363636363603" y="703" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZdzGuVzVUep0yFsbwotI-28" value="Mental Situations" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-586" y="642" width="122" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="ZdzGuVzVUep0yFsbwotI-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZdzGuVzVUep0yFsbwotI-30" target="ZdzGuVzVUep0yFsbwotI-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZdzGuVzVUep0yFsbwotI-30" value="Socio-financial integration?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1052" y="575" width="280" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="ZdzGuVzVUep0yFsbwotI-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZdzGuVzVUep0yFsbwotI-32" target="ZdzGuVzVUep0yFsbwotI-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZdzGuVzVUep0yFsbwotI-32" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;Financial struggle effects&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-1052" y="432" width="276" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="ZdzGuVzVUep0yFsbwotI-33" value="Money worries impact" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1053.5" y="708" width="279.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZdzGuVzVUep0yFsbwotI-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZdzGuVzVUep0yFsbwotI-35" target="ZdzGuVzVUep0yFsbwotI-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-527.0000000000005" y="780.454545454545" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZdzGuVzVUep0yFsbwotI-35" value="Hardship feelings" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1053.5" y="848" width="285.5" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="ZdzGuVzVUep0yFsbwotI-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.051;entryY=0.688;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZdzGuVzVUep0yFsbwotI-33" target="ZdzGuVzVUep0yFsbwotI-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZdzGuVzVUep0yFsbwotI-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.025;entryY=0.374;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZdzGuVzVUep0yFsbwotI-14" target="ZdzGuVzVUep0yFsbwotI-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZdzGuVzVUep0yFsbwotI-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.011;entryY=0.78;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZdzGuVzVUep0yFsbwotI-15" target="ZdzGuVzVUep0yFsbwotI-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZdzGuVzVUep0yFsbwotI-39" value="Social&amp;nbsp;anxiety" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1053.5" y="975" width="292.5" height="111" as="geometry" />
+        </mxCell>
+        <mxCell id="ZdzGuVzVUep0yFsbwotI-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.687;entryY=1.054;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZdzGuVzVUep0yFsbwotI-39" target="ZdzGuVzVUep0yFsbwotI-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZdzGuVzVUep0yFsbwotI-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZdzGuVzVUep0yFsbwotI-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1255.75" y="668.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZdzGuVzVUep0yFsbwotI-42" value="No connection with mental stress" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1375" y="542" width="154" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="ZdzGuVzVUep0yFsbwotI-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZdzGuVzVUep0yFsbwotI-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1268.25" y="755.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZdzGuVzVUep0yFsbwotI-44" value="No connection with financial stress" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1378" y="788" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZdzGuVzVUep0yFsbwotI-45" value="&lt;sub&gt;Stress find out&lt;/sub&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="602" y="528" width="136" height="136" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
