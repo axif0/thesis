@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-05T14:17:42.794Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="ASiWiFT3P5P-ogyFss77" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-05T14:31:29.734Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="CaGn8A7yfxCtW7rBceK5" version="22.1.5" type="github">
   <diagram name="Page-1" id="giDHEeXzCqw7Mk6FE-td">
-    <mxGraphModel dx="5474" dy="2806" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4845" dy="2522" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,14 +28,6 @@
         </mxCell>
         <mxCell id="RioY9GQPINJHXDq_88uB-4" value="&lt;b&gt;Scholarship Miss&lt;/b&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Impact on financial stability and academic progress.&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="729" y="150" width="317" height="86" as="geometry" />
-        </mxCell>
-        <mxCell id="B3kyMHNOTuuTRi2bmLed-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="RioY9GQPINJHXDq_88uB-5" target="RioY9GQPINJHXDq_88uB-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="369.6363636363635" y="277.81818181818176" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RioY9GQPINJHXDq_88uB-5" value="&lt;b&gt;Living Cost&lt;/b&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;Challenges related to the expenses of accommodation, utilities, and daily living.&lt;/li&gt;&lt;li&gt;&amp;nbsp;Balancing living costs with available financial resources.&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;strokeColor=#66CC00;fillColor=#FF3333;" parent="1" vertex="1">
-          <mxGeometry x="-344" y="258" width="377" height="92" as="geometry" />
         </mxCell>
         <mxCell id="B3kyMHNOTuuTRi2bmLed-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
